@@ -43,9 +43,9 @@
                                         <!-- Collect the nav links, forms, and other content for toggling -->
                                         <div class="collapse navbar-collapse" id="top-nav-collapse">
                                                 <ul class="nav navbar-nav">
-                                                        <li><a href="#">Home</a></li>
-                                                        <li><a href="#">About</a></li>
-                                                        <li><a href="#">Contact</a></li>
+                                                        <li><a href="#">Inicio</a></li>
+                                                        <li><a href="#">Nosotros</a></li>
+                                                        <li><a href="#">Contacto</a></li>
                                                 </ul>
 
                                                 <form class="navbar-form navbar-right" role="search">
@@ -87,7 +87,7 @@
                                                 <ul class="nav navbar-nav navbar-right">
                                                         <li class="active"><a href="#"><i class="fa fa-home"></i></a></li>
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inicio <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="home-version-1.html">Home Vervion 1</a></li>
                                                                         <li><a href="home-version-2.html">Home Version 2</a></li>
@@ -109,7 +109,7 @@
                                                                 </ul>
                                                         </li>
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog Detail <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Detalles de blog <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="blog-detail.html">Blog Detail</a></li>
                                                                         <li><a href="review-bar.html">Review Bar</a></li>
@@ -127,7 +127,7 @@
                                                                 </ul>
                                                         </li>         
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contacto <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="contact.html">Contact</a></li>
                                                                         <li class="divider"></li>
@@ -151,7 +151,7 @@
                                                                 </ul>
                                                         </li>    
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sign In <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ingresar <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="sign-in.html">Sign In</a></li>
                                                                         <li class="divider"></li>
@@ -159,7 +159,7 @@
                                                                 </ul>
                                                         </li>    
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elements <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elemento <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="elements.html">Elements</a></li>
                                                                         <li class="divider"></li>
